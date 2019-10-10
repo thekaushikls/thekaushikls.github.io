@@ -1,0 +1,262 @@
+html {
+  font-size: 13px;
+}
+body {
+  /*color: white;
+  background: black;*/
+}
+a:hover {
+  cursor: pointer;
+}
+.only-on-print {
+  display: none;
+}
+.resume {
+  /*height: 29.7cm;*/
+  max-width: 75rem;
+  margin: 0 auto;
+}
+.resume-body {
+  display: flex;
+  padding: 2rem;
+  flex-flow: row wrap;
+  align-items: stretch;
+  /* Disabling font boosting */
+  max-height:1000000px;
+}
+header {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  font-weight: 200;
+  padding: 1.5rem;
+  justify-content: space-around;
+}
+h2 {
+  font-weight: 200;
+  font-size: 2rem;
+  /*display: flex;*/
+  margin: 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.1rem solid #bfb5b5;
+}
+h2 i {
+  font-size: 2rem;
+  align-self: center;
+  margin-right: 1rem;
+}
+.header-right {
+  flex: 1;
+  min-width: 19rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  margin-top: 0.7rem;
+}
+.header-right td:first-child {
+    text-align: center;
+}
+.user-info {
+  flex: 2;
+  min-width: 23rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.user-info .name {
+  font-size: 2.7rem;
+}
+.user-info .work-role {
+  font-size: 1.2rem;
+}
+.user-info .links {
+  display: flex;
+  font-weight: 100;
+  position: absolute;
+  font-size: 1.3rem;
+  top: 7rem;
+  justify-content: center;
+  margin: auto;
+  margin-top: 1.5rem;
+}
+.user-info .links a, .user-info .links a:visited {
+	color: black;
+	background: transparent;
+  padding: 1rem;
+	text-decoration: none;
+}
+.user-info .links a:hover {
+  font-size: 2rem;
+}
+.header-right a, .header-right a:visited {
+	color: black;
+	background: transparent;
+	text-decoration: none;
+}
+.resume-body > section {
+  padding-bottom: 1rem;
+  padding-left: 1rem;
+}
+.resume-side {
+  padding-left: 1rem;
+}
+.resume-side > section {
+  padding-bottom: 1rem;
+}
+.experience > ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.experience > ul, .about-me > div, .skills > div, .interests > div {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.summary > ul, .experience > ul, .about-me > div, .skills > div, .interests > div {
+  margin-top: 1.5rem;
+}
+.experience-item {
+  margin: 2rem 0.6rem 0rem 0.6rem;
+  padding: 0 1.8rem;
+  position: relative;
+}
+.experience-item:first-child {
+  margin-top: 0;
+}
+.experience-item:before {
+  content: "";
+  position: absolute;
+  border-left: 0.15rem solid darkgrey;
+  height: calc(100% + -1rem);
+  left: -0.3rem;
+  top: 2.4rem;
+}
+.experience-item:last-child:before {
+  display: none;
+}
+.experience-title {
+  font-size: 1.7rem;
+  padding: 0.3rem 0;
+  font-weight: 300;
+}
+.experience-date {
+  font-weight: 200;
+  font-size: 1rem;
+}
+.experience-location {
+  font-size: 1rem;
+  font-weight: 200;
+}
+.experience-place {
+  text-transform: uppercase;
+}
+.experience-organisation {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.experience-info {
+  line-height: 1.7rem;
+  padding-top: 1rem;
+  /*max-height: 0;*/
+  font-weight: 300;
+}
+.experience-info ul {
+  list-style-type: initial;
+  padding-left: 3rem;
+}
+.profile-pic > img {
+  width: 13rem;
+  height: 13rem;
+  border-radius: 0.6rem;
+  box-shadow: 0rem 0rem 1.5rem -0.1rem black;
+}
+.left-panel {
+  /*padding-right: 2rem;*/
+  /*width: 70rem;*/
+}
+.right-panel table {
+  /*width: 100%;*/
+  padding-top: 1rem;
+  font-weight: 300;
+}
+.skill-sets {
+  font-size: 1rem;
+  font-weight: 300;
+}
+.skill-set {
+  padding-bottom: 1rem;
+}
+.skill-set .topic {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-weight: 200;
+}
+.skill-set .values {
+  margin-top: 0.4rem;
+  margin-left: 1rem;
+}
+.about-me .key {
+  text-transform: uppercase;
+  font-weight: 200;
+}
+.about-me > div {
+  line-height: 1rem;
+}
+.summary, .experience {
+  flex: 1 46rem;
+  min-width: 22rem;
+}
+.about-me, .resume-side {
+  flex: 1;
+  min-width: 22rem;
+}
+.summary ul {
+  margin-left: 0;
+  font-weight: 300;
+  padding-left: 2rem;
+  line-height: 1.5rem;
+}
+.bullet-icon {
+  position: absolute;
+  left: -0.8rem;
+  font-size: 1.8rem;
+  top: -0.1rem;
+}
+.bullet-icon.u-gradCapCorrection {
+  left: -1.3rem;
+  font-size: 1.6rem;
+}
+.bullet-icon.u-childCorrection {
+  left: -0.9rem;
+}
+@media print {
+  html {
+    font-size: 8.5px;
+  }
+  .resume {
+    margin: 0;
+    max-width: 100%;
+  }
+  .no-print, .no-print * {
+    display: none !important;
+  }
+  .only-on-print, .only-on-print * {
+    display: inherit !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  html {
+    font-size: 30px;
+  }
+  .header-right {
+    margin-top: 3.5rem;
+  }
+  .resume-body > section {
+    padding-left: 0;
+  }
+  .resume-side {
+    padding-left: 0;
+  }
+}
