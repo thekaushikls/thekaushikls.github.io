@@ -1,0 +1,11 @@
+.md-header__button.md-logo
+{
+    margin: 1;
+    padding: 1;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg
+{
+    height: 0; /* 1rem; */
+    width: 0;  /* 6rem; */
+}
