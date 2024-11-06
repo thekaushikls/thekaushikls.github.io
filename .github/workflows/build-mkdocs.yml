@@ -1,0 +1,35 @@
+# Runs on push to main
+name: Build MkDocs
+
+on:
+  workflow_dispatch
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      # Access the files of this repo in Actions environment
+      - name: Checkout Repo
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+      
+      # Setup Python
+      - name: Install Python
+        uses: actions/setup-python@v5.3.0
+        with:
+          python-version: 3.x
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      
+      # Build static site
+      - name: Build Docs
+        uses: actions/cache@v4.1.2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: mkdocs gh-deploy --force
