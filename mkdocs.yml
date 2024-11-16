@@ -1,9 +1,9 @@
 # Project Information
-site_name: Kaushik
+site_name: "thekaushikls"
 docs_dir: public
 site_url: https://www.thekaushikls.com
 site_author: Kaushik L. S.
-site_description: Kaushik's Personal Site
+site_description: Computational Design Expert
 dev_addr: 0.0.0.0:8080
 
 # The below folders (and files) are hidden from the main/home page.
@@ -132,8 +132,8 @@ theme:
         name: Switch to dark mode
 
   # Icons
-  logo: resources/Icon_384x64.png
-  favicon: resources/Icon_256x256.ico
+  logo: resources/Icon_256x256.png
+  favicon: resources/Icon_256x256.png
   icon:
     repo: fontawesome/brands/github
   
