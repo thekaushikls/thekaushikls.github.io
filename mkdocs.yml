@@ -18,6 +18,9 @@ copyright: <a href="https://www.thekaushikls.com">&copy; 2018 - 2024 thekaushikl
 
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-WLL7NQBM4B
   
   social:
     - name: LinkedIn
@@ -133,7 +136,7 @@ theme:
 
   # Icons
   logo: resources/Icon_256x256.png
-  favicon: resources/Icon_256x256.png
+  favicon: resources/Icon_256x256.ico
   icon:
     repo: fontawesome/brands/github
   
