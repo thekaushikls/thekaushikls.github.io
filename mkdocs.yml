@@ -6,11 +6,9 @@ site_author: Kaushik L. S.
 site_description: Computational Design Expert
 dev_addr: 0.0.0.0:8080
 
-# The below folders (and files) are hidden from the main/home page.
-# But,they are just included in the build process.
+# The below folders (and files) are excluded from the the build process.
 exclude_docs: |
   templates/
-  resources/
 
 #region Site Footer
 # Copyright Information
