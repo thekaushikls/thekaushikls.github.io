@@ -86,19 +86,19 @@ plugins: []
   #    separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   #- autorefs
   # Built-In Blog
-  #- blog:
-  #    blog_dir: Blog
-  #    blog_toc: true                        # Show Table of Contents on blog index
-  #    draft: false                          # Publish posts marked as Draft
-  #    draft_on_serve: true                  # Preview posts marked as Draft
+  - blog:
+      blog_dir: blog
+      blog_toc: true                        # Show Table of Contents on blog index
+      draft: false                          # Publish posts marked as Draft
+      draft_on_serve: true                  # Preview posts marked as Draft
       
-  #    post_excerpt: required                # Always require an excerpt
-  #    post_date_format: medium
-  #    post_url_date_format: yyyy
-  #    post_url_format: "{date}/{slug}"
-  #    archive_date_format: yyyy
-  #    archive_url_date_format: yyyy
-  #    archive_url_format: "archive/{date}"
+      post_excerpt: required                # Always require an excerpt
+      post_date_format: medium
+      post_url_date_format: yyyy
+      post_url_format: "{date}/{slug}"
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      archive_url_format: "archive/{date}"
 
 #endregion Extensions & Plugins
 
@@ -109,8 +109,8 @@ theme:
   highlightjs: true
 
   # Typography
-  text: Roboto
-  code: JetBrains Mono
+  text: Nunito
+  code: Roboto Mono
   
   # Site Colors
   palette:
@@ -167,13 +167,13 @@ theme:
     # Navigation Bar / Path
     - navigation.instant      # Behaves as a single page application, faster content
     - navigation.top          # Back to top
-    #- navigation.tabs         # Displays a navigation menu below header
+    - navigation.tabs         # Displays a navigation menu below header
     - navigation.tracking     # URL tracks headers
-    - navigation.sections    # Displays folders as sections
+    #- navigation.sections    # Displays folders as sections
     #- nativation.indexes     # Documents can be directly attached to sections
     #- navigation.expand      # Auto Expand everything
     - navigation.path         # Breadcrumbs
-    #- navigation.prune        # Optimizes site by not rendering the entire navigation list
+    - navigation.prune        # Optimizes site by not rendering the entire navigation list
     #- navigation.footer      # Navigation to next page in footer
     #- toc.integrate          # Combines Table of Contents with navigation list
     
