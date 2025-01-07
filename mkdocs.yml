@@ -77,7 +77,7 @@ extra_javascript:
   - mkdocs/javascripts/polyfill.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-plugins: []
+plugins:
   # Build (as HTML) for offline usage
   #- offline
   # Search Box
