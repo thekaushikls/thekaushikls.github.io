@@ -4,16 +4,35 @@ hide:
   - navigation
 ---
 
-<!-- Scripts -->
-<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
-<script src="./resources/konami.js"></script>
-<!-- Scripts -->
+<!-- CSS Styles -->
+<style>
+.custom_button
+{
+  padding: 15px; border-radius: 15px;
+  background-color: #282828; color: #03cd69;
+  cursor: pointer; text-align: center;
+}
+</style>
+<!-- CSS Styles -->
 
+<center>
+  <br><br><br>
+  <img style="border-radius: 50%; border: 5px solid #03cd69" src="resources/Photo-thekaushikls.jpg" width="200px" />
+  <br><br><br>
+  [:simple-linkedin:](https://www.linkedin.com/in/thekaushikls){.custom_button style="color: #ffffff;" target="_blank"} &emsp;
+  [:simple-github:](https://www.github.com/thekaushikls){.custom_button style="color: #ffffff;" target="_blank"} &emsp;
+  [:simple-mailgun:](mailto:kaushiklsk96+thekaushikls@gmail.com){.custom_button style="color: #ffffff;" target="_blank"}
+  <br>
+</center>  
+
+<br><br><br><br><br><br><br><br><br>
 <center><h1>E V E N T S</h1></center><br>
 
-11 Jan 2024 | **[CoDe Collective](https://codecollective.org/){:target="_blank"} x Hyderabad**
+11 Jan 2024 | **[CoDe Collective](https://codecollective.org/){:target="_blank"} x Hyderabad** <em style="color:red;"> Cancelled </em>
+<strike>
 > In collaboration with [FHD India](https://fhdindia.com/)<br>
 > at  Hyderabad, IN
+</strike>
 ---
 
 
@@ -45,3 +64,9 @@ hide:
 > for [Master in Advanced Computation for Architecture & Design (MaCAD)](https://iaac.net/educational-programmes/masters-programmes/macad/){:target="_blank"} programme<br>
 > at [Institute for Advanced Architecture of Catalonia (IAAC)](https://iaac.net/){:target="_blank"}, Barcelona, ES
 ---
+
+
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+<script src="./resources/konami.js"></script>
+<!-- Scripts -->

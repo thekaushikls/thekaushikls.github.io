@@ -70,7 +70,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
-  - custom/styles.css
+  - custom/stylesheets/styles.css
 
 extra_javascript:
   - mkdocs/javascripts/mathjax.js
