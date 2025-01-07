@@ -1,10 +1,10 @@
 # Project Information
-site_name: "thekaushikls"
+site_name: "Kaushik"
 docs_dir: public
 site_url: https://www.thekaushikls.com
 site_author: Kaushik L. S.
 site_description: Computational Design Expert
-dev_addr: 0.0.0.0:8080
+dev_addr: 0.0.0.0:8282
 
 # The below folders (and files) are excluded from the the build process.
 exclude_docs: |
@@ -31,7 +31,7 @@ extra:
 
     - name: Email
       icon: fontawesome/solid/at
-      link: asd
+      link: mailto:kaushiklsk96+thekaushikls@gmail.com
         
   consent:
     title: Cookie Policy
