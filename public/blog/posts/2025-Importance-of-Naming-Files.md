@@ -1,6 +1,6 @@
 ---
 title: "Importance of Naming Files"
-draft: true
+draft: false
 search:
   exclude: false
 date:
