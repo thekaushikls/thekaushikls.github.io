@@ -8,8 +8,8 @@ date:
   updated: 2024-09-24T05:37:12
 authors:
   - thekaushikls
-tags: [C++, Graph, Tutorial]
-categories: [Graph, Programming, Project, Tutorial]
+tags: [C++, Graph]
+categories: [Graph, Programming, Project]
 comments: false
 pin: true
 ---
