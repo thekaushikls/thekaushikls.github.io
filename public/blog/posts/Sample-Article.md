@@ -8,10 +8,10 @@ date:
 authors:
   - thekaushikls
 tags: []
-categories: [Sample]
+categories: [Tutorial]
 comments: false
 ---
-![](../../resources/Placeholder_256x256.png){width=100 align="left"}
+![](../../resources/Placeholder_256x256.png){width=80 align="left"}
 Placeholder excerpt. Maximum 150 characters. Excerpt will be displayed on blog / article card, as well as above the post title. You should already see a preview of this on the "Categories" page.
 ---
 <!-- more -->
