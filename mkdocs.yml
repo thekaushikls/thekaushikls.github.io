@@ -12,7 +12,7 @@ exclude_docs: |
 
 #region Site Footer
 # Copyright Information
-copyright: <a href="https://www.thekaushikls.com">&copy; 2018 - 2024 thekaushikls.com</a>
+copyright: <a href="https://www.thekaushikls.com">&copy; 2018 - 2025 thekaushikls.com</a>
 
 extra:
   generator: false
@@ -117,7 +117,7 @@ theme:
     # Color Scheme for Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      #primary: black
       accent: red
       toggle:
         icon: material/white-balance-sunny
@@ -126,7 +126,7 @@ theme:
     # Color Scheme for Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
+      primary: white
       accent: red
       toggle:
         icon: material/weather-night
