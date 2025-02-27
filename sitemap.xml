@@ -21,12 +21,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.thekaushikls.com/blog/2025/multi-packaging-rhino-plugins/</loc>
+         <lastmod>2025-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.thekaushikls.com/blog/archive/2025/</loc>
          <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/archive/2014/</loc>
+         <lastmod>2025-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/rhino/</loc>
+         <lastmod>2025-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/grasshopper/</loc>
+         <lastmod>2025-02-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/plugin-development/</loc>
          <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
