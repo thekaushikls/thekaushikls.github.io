@@ -17,7 +17,7 @@
 
     --md-footer-bg-color: #0000ff;
     --md-footer-bg-color--dark: #171717;        /* Footer background color */
-    --md-footer-fg-color: #00ff00;              
+    --md-footer-fg-color: #ff1744;              /* Footer hover color */
     --md-footer-fg-color--light: #ffffffb3;     /* Footer text color */
     --md-footer-fg-color--lighter: #ff0000;     
 }
@@ -28,8 +28,8 @@
     --md-primary-fg-color: #eeeeee;             /* Header background color */
 
     --md-footer-bg-color: #ffffff;
-    --md-footer-bg-color--dark: #eeeeee;          /* Footer background color */
-    --md-footer-fg-color: #00ff00;
+    --md-footer-bg-color--dark: #eeeeee;        /* Footer background color */
+    --md-footer-fg-color: #ff1744;              /* Footer hover color */
     --md-footer-fg-color--light: #171717;       /* Footer text color */
     --md-footer-fg-color--lighter: #ff0000;
 }
