@@ -5,12 +5,12 @@ search:
   exclude: false
 date:
   created: 2014-03-30T16:45:58
-  updated: 2024-09-24T05:37:12
+  updated: 2025-02-27T17:57:12
 authors:
   - thekaushikls
 tags: [C++, Graph]
 categories: [Graph, Programming, Project]
-comments: false
+comments: true
 pin: true
 ---
 ![Graphic Calculator C++ Program](../assets/2014-GraphicCalculator-02.png){width=100 align="left"}
