@@ -13,7 +13,6 @@ comments: false
 ---
 ![](../../resources/Placeholder_256x256.png){width=80 align="left"}
 Placeholder excerpt. Maximum 150 characters. Excerpt will be displayed on blog / article card, as well as above the post title. You should already see a preview of this on the "Categories" page.
----
 <!-- more -->
 <center><h1><kbd> Sample Article </kbd></h1></center>
 
