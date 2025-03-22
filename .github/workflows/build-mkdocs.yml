@@ -31,7 +31,7 @@ jobs:
       
       # Build static site
       - name: Build Docs
-        uses: actions/cache@v4.1.2
+        uses: actions/cache@v4.2.3
         with:
           key: ${{ github.ref }}
           path: .cache
