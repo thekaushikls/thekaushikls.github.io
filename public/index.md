@@ -1,7 +1,5 @@
 ---
-hide:
-  - toc
-  - navigation
+hide: [ toc, navigation ]
 ---
 
 <!-- CSS Styles -->
