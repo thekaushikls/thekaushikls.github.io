@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.thekaushikls.com/blog/2025/inflation-ate-my-candy/</loc>
+         <lastmod>2025-08-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.thekaushikls.com/blog/2025/kheerganga-trek-i/</loc>
          <lastmod>2025-08-03</lastmod>
          <changefreq>daily</changefreq>
@@ -46,6 +51,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://www.thekaushikls.com/blog/category/citizen-bytes/</loc>
+         <lastmod>2025-08-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/finance/</loc>
+         <lastmod>2025-08-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/economics/</loc>
+         <lastmod>2025-08-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://www.thekaushikls.com/blog/category/travel/</loc>
          <lastmod>2025-08-03</lastmod>
          <changefreq>daily</changefreq>
@@ -67,11 +87,6 @@
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/category/plugin-development/</loc>
-         <lastmod>2025-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://www.thekaushikls.com/blog/category/citizen-bytes/</loc>
          <lastmod>2025-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
