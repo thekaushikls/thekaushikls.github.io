@@ -4,7 +4,7 @@ docs_dir: public
 site_url: https://www.thekaushikls.com
 site_author: Kaushik L. S.
 site_description: Computational Design Expert
-dev_addr: 0.0.0.0:8282
+dev_addr: 0.0.0.0:80
 
 # The below folders (and files) are excluded from the the build process.
 exclude_docs: |
@@ -117,7 +117,7 @@ theme:
     # Color Scheme for Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      #primary: black
+      primary: black
       accent: red
       toggle:
         icon: material/white-balance-sunny
