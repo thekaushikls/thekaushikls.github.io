@@ -10,10 +10,7 @@ authors:
   - thekaushikls
 tags: []
 categories: [Travel, Literature]
-comments: false
-hide:
-    - navigation
-    - toc
+comments: true
 ---
 
 DAWN WAS HERE, AND SNOW SO NEAR
