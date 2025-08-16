@@ -9,6 +9,7 @@ dev_addr: 0.0.0.0:80
 # The below folders (and files) are excluded from the the build process.
 exclude_docs: |
   templates/
+  work/
 
 #region Site Footer
 # Copyright Information
@@ -83,14 +84,14 @@ plugins:
   # Search Box
   #- search:
       # Query tokenization, allows searching special characters from code blocks
-  #    separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      #separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   #- autorefs
   # Built-In Blog
   - blog:
       blog_dir: blog
       blog_toc: true                        # Show Table of Contents on blog index
       draft: false                          # Publish posts marked as Draft
-      draft_on_serve: true                  # Preview posts marked as Draft
+      draft_on_serve: false                 # Preview posts marked as Draft
       
       post_excerpt: required                # Always require an excerpt
       post_date_format: medium
@@ -160,9 +161,9 @@ theme:
     - header.autohide         # Hide Header when scrolling
 
     # Search Box
-    #- search.suggest          # Suggestions in search box
-    #- search.highlight        # Highlights all occurences
-    #- search.share            # Enables button to copy search query
+    - search.suggest          # Suggestions in search box
+    - search.highlight        # Highlights all occurences
+    - search.share            # Enables button to copy search query
 
     # Navigation Bar / Path
     - navigation.instant      # Behaves as a single page application, faster content

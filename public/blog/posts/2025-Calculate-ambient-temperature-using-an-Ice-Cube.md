@@ -1,17 +1,17 @@
 ---
-title: "Importance of Naming Files"
+title: "Calculating Ambient Temperature using an Ice Cube"
 draft: true
 search:
   exclude: false
 date:
-  created: 2025-01-08T04:25:43
-  updated: 2025-01-08T06:30:34
+  created: 2025-03-04T11:23:53
+  updated: 2025-03-04T11:23:53
 authors:
   - thekaushikls
-tags: [Organizing, Files, Documents]
-categories: [Citizen Bytes, Computers, File System, Tutorial]
+tags: []
+categories: [Citizen Bytes]
 comments: true
-pin: true
+pin: false
 ---
 ![](../assets/2025-Importance-of-Naming-Files-01.png){width=80 align="left"}
 

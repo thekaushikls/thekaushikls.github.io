@@ -1,11 +1,11 @@
 ---
-title: "Kheerganga Trek I"
+title: "Kheerganga"
 draft: false
 search:
   exclude: false
 date:
   created: 2025-03-12T14:18:51
-  updated: 2025-03-23T01:55:15
+  updated: 2025-08-16T20:11:15
 authors:
   - thekaushikls
 tags: []
@@ -15,17 +15,15 @@ hide:
     - navigation
     - toc
 ---
-![](../assets/2025-KheergangaTrek-I-01.png){width=80 align="left"}
 
-Nature grounds you. It took me an entire afternoon at the Sunshine Cafe to retrospect the previous days. A poem to quickly capture the feelings, emotions, and the journey as I experienced it.
-
+DAWN WAS HERE, AND SNOW SO NEAR
 <!-- more -->
----
-<h1></h1>
-<center>
-K H E E R G A N G A
+# Kheerganga
 
-<br>We wanted to see snow
+
+
+<center>
+We wanted to see snow
 <br>but little did we know
 <br>we had to trek up high
 <br>unlike the ravens who could fly
@@ -45,7 +43,7 @@ K H E E R G A N G A
 <br>around the campfire, where we sat
 <br>we also had a nice chat
 
-<br>Dawn was here, and snow so near
+<br>Dawn was here and snow so near
 <br>we started uphill with a little fear
 <br>as rains may make it harder
 <br>for us to venture farther
@@ -64,7 +62,11 @@ K H E E R G A N G A
 <br>and think about the trip
 <br>I'm glad we're safe and back
 <br>with nothing but a muddy track *(pant)*
-
-<br> --- 🍀 ---
 </center>
 
+---
+> We were the flatlanders pushed to our limits, moving slowly and cautiously in 6" snow. Some were faster, some slower. In the end, we were in the middle. Alone but surrounded at a distance.
+> 
+> Occassionaly we'd see some experienced locals bolting across us as if we were standing still. But it were the fools who tried to copy them that scared me the most. I once reflexively caught a fellow trekker just as he was about to slide off a cliff. He jokingly thanked me for saving him.
+> 
+> In retrospection, I'm just glad the four of us made it back safely.

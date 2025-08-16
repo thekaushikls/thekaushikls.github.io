@@ -1,6 +1,6 @@
 ---
 title: Graphic Calculator
-draft: false
+draft: true
 search:
   exclude: false
 date:
