@@ -9,7 +9,7 @@ date:
 authors:
   - thekaushikls
 tags: [C++, Graph]
-categories: [Graph, Programming, Project]
+categories: [Programming]
 comments: true
 pin: true
 ---

@@ -8,7 +8,7 @@ date:
 authors:
   - thekaushikls
 tags: [Community, Meetup, Mumbai]
-categories: [CoDe Collective, Meetup, Computational Design]
+categories: [Communty]
 comments: true
 pin: true
 ---

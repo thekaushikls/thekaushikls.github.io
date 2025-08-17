@@ -8,16 +8,18 @@ date:
   updated: 2025-08-16T20:11:15
 authors:
   - thekaushikls
-tags: []
-categories: [Travel, Literature]
+tags:
+  - Mountains
+  - Retrospection
+  - Literature
+categories:
+  - Travel
 comments: true
 ---
 
 DAWN WAS HERE, AND SNOW SO NEAR
 <!-- more -->
 # Kheerganga
-
-
 
 <center>
 We wanted to see snow

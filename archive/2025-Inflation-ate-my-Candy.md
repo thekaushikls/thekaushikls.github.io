@@ -1,5 +1,5 @@
 ---
-title: "Inflation ate my Candy"
+title: Inflation ate my Candy
 draft: true
 search:
   exclude: false
@@ -8,8 +8,11 @@ date:
   updated: 2025-08-03T11:04:34
 authors:
   - thekaushikls
-tags: [Money, Inflation, Savings]
-categories: [Citizen Bytes, Finance, Economics]
+tags:
+  - Inflation
+  - Retrospection
+categories:
+  - Finance
 comments: false
 pin: true
 ---

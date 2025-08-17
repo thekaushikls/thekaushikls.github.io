@@ -10,6 +10,7 @@ dev_addr: 0.0.0.0:80
 exclude_docs: |
   templates/
   work/
+  blog_archive/
 
 #region Site Footer
 # Copyright Information
@@ -101,6 +102,9 @@ plugins:
       archive_url_date_format: yyyy
       archive_url_format: "archive/{date}"
 
+  - tags:
+      tags_file: blog/tags.md
+
 #endregion Extensions & Plugins
 
 #region Theme Design
@@ -168,7 +172,7 @@ theme:
     # Navigation Bar / Path
     - navigation.instant      # Behaves as a single page application, faster content
     - navigation.top          # Back to top
-    - navigation.tabs         # Displays a navigation menu below header
+    #- navigation.tabs         # Displays a navigation menu below header
     - navigation.tracking     # URL tracks headers
     #- navigation.sections    # Displays folders as sections
     #- nativation.indexes     # Documents can be directly attached to sections

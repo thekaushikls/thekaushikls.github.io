@@ -9,7 +9,7 @@ date:
 authors:
   - thekaushikls
 tags: []
-categories: [Citizen Bytes]
+categories: [Meta]
 comments: true
 pin: false
 ---

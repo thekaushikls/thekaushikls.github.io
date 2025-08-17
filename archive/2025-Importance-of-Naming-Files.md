@@ -8,8 +8,8 @@ date:
   updated: 2025-01-08T06:30:34
 authors:
   - thekaushikls
-tags: [Organizing, Files, Documents]
-categories: [Citizen Bytes, Computers, File System, Tutorial]
+tags: [Organizing, Files, Documents, Tutorials]
+categories: [Tutorials]
 comments: true
 pin: true
 ---

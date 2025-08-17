@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 search:
   exclude: true
 date:
@@ -8,9 +8,11 @@ date:
 authors:
   - thekaushikls
 tags: []
-categories: [Meta]
+categories:
+  - Meta
 comments: false
 ---
+
 NEW STYLING PREVIEW &mdash; AUG 2025
 <!-- more -->
 # Preview #1
