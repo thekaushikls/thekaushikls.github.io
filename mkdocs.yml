@@ -10,7 +10,6 @@ dev_addr: 0.0.0.0:80
 exclude_docs: |
   templates/
   work/
-  blog_archive/
 
 #region Site Footer
 # Copyright Information
@@ -101,6 +100,18 @@ plugins:
       archive_date_format: yyyy
       archive_url_date_format: yyyy
       archive_url_format: "archive/{date}"
+
+      categories_allowed:
+        - "Citizen Bytes"
+        - Community
+        - Technology
+        - Programming
+        - Tutorials
+        - Finance
+        - Travel
+        - Life
+        - Meta
+        - Uncategorized
 
   - tags:
       tags_file: blog/tags.md

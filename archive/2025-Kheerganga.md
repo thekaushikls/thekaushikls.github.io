@@ -1,6 +1,6 @@
 ---
 title: "Kheerganga"
-draft: false
+draft: true
 search:
   exclude: false
 date:
