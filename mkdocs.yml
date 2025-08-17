@@ -91,7 +91,7 @@ plugins:
       blog_dir: blog
       blog_toc: true                        # Show Table of Contents on blog index
       draft: false                          # Publish posts marked as Draft
-      draft_on_serve: false                 # Preview posts marked as Draft
+      draft_on_serve: true                  # Preview posts marked as Draft
       
       post_excerpt: required                # Always require an excerpt
       post_date_format: medium
@@ -149,8 +149,8 @@ theme:
         name: Switch to dark mode
 
   # Icons
-  logo: resources/Icon_256x256.png
-  favicon: resources/Icon_256x256.ico
+  logo: resources/logo.png
+  favicon: resources/favicon.ico
   icon:
     repo: fontawesome/brands/github
   
