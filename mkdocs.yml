@@ -17,6 +17,8 @@ copyright: <a href="https://www.thekaushikls.com">&copy; 2018 - 2025 thekaushikl
 
 extra:
   generator: false
+  social_cards:
+    default: "resources/social_cards.png"
   analytics:
     provider: google
     property: G-WLL7NQBM4B
@@ -74,9 +76,7 @@ extra_css:
   - custom/stylesheets/styles.css
 
 extra_javascript:
-  - mkdocs/javascripts/mathjax.js
-  - mkdocs/javascripts/polyfill.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - custom/javascripts/social-meta.js
 
 plugins:
   # Build (as HTML) for offline usage
@@ -102,7 +102,7 @@ plugins:
       archive_url_format: "archive/{date}"
 
       categories_allowed:
-        - "Citizen Bytes"
+        - "Citizen Science"
         - "Community"
         - "Dev Log"
         - "Finance"
