@@ -8,8 +8,8 @@ date:
   updated: 2025-01-08T06:30:34
 authors:
   - thekaushikls
-tags: [Organizing, Files, Documents, Tutorials]
-categories: [Tutorials]
+tags: [Organizing, Files, Documents, Tutorial]
+categories: [Tutorial]
 comments: true
 pin: true
 ---

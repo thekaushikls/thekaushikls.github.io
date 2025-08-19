@@ -103,15 +103,16 @@ plugins:
 
       categories_allowed:
         - "Citizen Bytes"
-        - Community
-        - Technology
-        - Programming
-        - Tutorials
-        - Finance
-        - Travel
-        - Life
-        - Meta
-        - Uncategorized
+        - "Community"
+        - "Dev Log"
+        - "Finance"
+        - "Life"
+        - "Meta"
+        - "Programming"
+        - "Technology"
+        - "Travel"
+        - "Tutorial"
+        - "Uncategorized"
 
   - tags:
       tags_file: blog/tags.md
