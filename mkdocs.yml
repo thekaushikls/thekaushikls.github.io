@@ -75,9 +75,6 @@ markdown_extensions:
 extra_css:
   - custom/stylesheets/styles.css
 
-extra_javascript:
-  - custom/javascripts/social-meta.js
-
 plugins:
   # Build (as HTML) for offline usage
   #- offline
@@ -116,7 +113,6 @@ plugins:
 
   - tags:
       tags_file: blog/tags.md
-
 #endregion Extensions & Plugins
 
 #region Theme Design
