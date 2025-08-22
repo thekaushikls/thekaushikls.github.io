@@ -75,6 +75,9 @@ markdown_extensions:
 extra_css:
   - custom/stylesheets/styles.css
 
+extra_javascript:
+  - https://challenges.cloudflare.com/turnstile/v0/api.js
+
 plugins:
   # Build (as HTML) for offline usage
   #- offline
@@ -110,6 +113,7 @@ plugins:
         - "Travel"
         - "Tutorial"
         - "Uncategorized"
+        - "Work"
 
   - tags:
       tags_file: blog/tags.md
