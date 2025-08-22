@@ -2,22 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.thekaushikls.com/blog/</loc>
-         <lastmod>2025-08-19</lastmod>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/tags/</loc>
-         <lastmod>2025-08-19</lastmod>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/2025/and-i-am-back/</loc>
-         <lastmod>2025-08-19</lastmod>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/2025/dont-create-a-password/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/archive/2025/</loc>
-         <lastmod>2025-08-19</lastmod>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/citizen-science/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/technology/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
          <loc>https://www.thekaushikls.com/blog/category/meta/</loc>
-         <lastmod>2025-08-19</lastmod>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://www.thekaushikls.com/blog/category/life/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
 </urlset>
